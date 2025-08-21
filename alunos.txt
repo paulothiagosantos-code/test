@@ -1,18 +1,13 @@
-professor Paulo Santos
 Joao Vitor Donato Oliveira
 Carlos Eduardo Burg
-Guilherme Vicente Seixas
 Kaio Richard Amaral Lisboa
 Alex José das Neves Junior
-Matheus Mafra Mianes
 Mayla Cordeiro
-Samuel Machado
 Caio Juan Alves Silva da Costa
 Peterson ruivo
 Otavio Vinicius
-Tiago Vargas Gonçalves
 Vitor Augusto
-Juliana Leite
 julio da cruz
+<<<<<<< HEAD
 Jailine Coelho 
-Victor Aires
+Victor Aires.
